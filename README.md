@@ -18,9 +18,3 @@ commit main4
 commit main5
 commit branch1
 commit branch2
-branch3
-branch4
-brnch5
-branch6
-branch7
-branch8
